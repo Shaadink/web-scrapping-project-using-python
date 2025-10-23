@@ -1,5 +1,7 @@
 # 📱 Flipkart Mobile Market Intelligence Project
 
+https://github.com/Shaadink/web-scrapping-project-using-python/blob/main/webscrapping%20background%20picture.png
+
 ## 🌟 Project Summary
 This project demonstrates a complete, end-to-end **data science pipeline** focused on market intelligence within the e-commerce sector.  
 It involves building a robust web scraper to gather product data from **Flipkart**, followed by rigorous **data cleaning**, **processing**, and **visual analysis** to derive **actionable market insights**.
