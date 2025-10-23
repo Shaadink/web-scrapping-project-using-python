@@ -1,12 +1,7 @@
 <p align="center">
-  <h1 align="center">Flipkart Mobile Market Intelligence Project </h1>
-  <img src="" width="850"/>
+  <h1 align="center"> 📱 Flipkart Mobile Market Intelligence Project </h1>
+  <img src="https://github.com/Shaadink/web-scrapping-project-using-python/blob/main/webscrapping%20background%20picture.png" width="850"/>
 </p>
-
-
-# 📱 Flipkart Mobile Market Intelligence Project
-
-https://github.com/Shaadink/web-scrapping-project-using-python/blob/main/webscrapping%20background%20picture.png
 
 ## 🌟 Project Summary
 This project demonstrates a complete, end-to-end **data science pipeline** focused on market intelligence within the e-commerce sector.  
