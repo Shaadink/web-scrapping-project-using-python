@@ -41,10 +41,10 @@ The **Distribution of Mobile Ratings** histogram showed that the majority of pho
 
 ###  Price is Not a Rating Guarantee  
 The **Price vs. Ratings** scatter plot revealed **no direct positive correlation** between phone price and customer rating.  
-👉 Consumers find **high-rated value phones** at all price levels — challenging the belief that “higher price = higher satisfaction.”
+ Consumers find **high-rated value phones** at all price levels — challenging the belief that “higher price = higher satisfaction.”
 ###  Market Discrepancies  
 The **Top 10 Most Expensive Mobiles** bar chart highlighted anomalies — several phones listed above ₹50,000 (up to ₹1,20,000).  
-👉 This suggests **dynamic pricing issues** or **data leakage** in Flipkart’s listings.
+ This suggests **dynamic pricing issues** or **data leakage** in Flipkart’s listings.
 
 ---
 
